@@ -4,24 +4,24 @@ FIXME: description
 
 ## Installation
 
-Download from http://example.com/FIXME.
-
-## Usage
-
-FIXME: explanation
-
-    $ java -jar forca-0.1.0-standalone.jar [args]
+    $ lein uberjar 
 
 ## Options
 
-FIXME: listing of options this app accepts.
+## Usage
+
+If you generate the jar file:
+
+    $ java -jar forca-0.1.0-standalone.jar
+
+Else:
+
+    lein run
+
+## Options
+
 
 ## Examples
-
-...
-
-### Bugs
-
 ...
 
 ### Any Other Sections
